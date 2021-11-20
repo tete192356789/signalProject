@@ -4,6 +4,9 @@ For this project we create Gui app that display audiosignal in time domain & fre
 you can import .wav file in to the app and it will show audio waveform in time domain & frequency spectrum.
 you can import multiple file and select more than 1 to combine signal together.
 
+## Requirment
+- Matlab App Design
+
 ## Example
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87508088/142411608-df475014-ed85-4cf5-8955-a2bc3355c57a.png" /><br/>
